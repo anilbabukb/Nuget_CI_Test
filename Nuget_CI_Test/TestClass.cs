@@ -4,7 +4,7 @@
     {
         public string PrintMessage()
         {
-            return "1. Initial Commit";
+            return "1 - master - Initial Release";
         }
     }
 }
